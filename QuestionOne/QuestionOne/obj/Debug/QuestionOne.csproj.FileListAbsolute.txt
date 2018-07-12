@@ -1,0 +1,6 @@
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionOne\QuestionOne\bin\Debug\QuestionOne.exe.config
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionOne\QuestionOne\bin\Debug\QuestionOne.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionOne\QuestionOne\bin\Debug\QuestionOne.pdb
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionOne\QuestionOne\obj\Debug\QuestionOne.csprojResolveAssemblyReference.cache
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionOne\QuestionOne\obj\Debug\QuestionOne.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionOne\QuestionOne\obj\Debug\QuestionOne.pdb

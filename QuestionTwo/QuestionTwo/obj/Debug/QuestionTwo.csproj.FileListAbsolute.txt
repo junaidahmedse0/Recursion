@@ -1,0 +1,6 @@
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionTwo\QuestionTwo\bin\Debug\QuestionTwo.exe.config
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionTwo\QuestionTwo\bin\Debug\QuestionTwo.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionTwo\QuestionTwo\bin\Debug\QuestionTwo.pdb
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionTwo\QuestionTwo\obj\Debug\QuestionTwo.csprojResolveAssemblyReference.cache
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionTwo\QuestionTwo\obj\Debug\QuestionTwo.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QuestionTwo\QuestionTwo\obj\Debug\QuestionTwo.pdb
